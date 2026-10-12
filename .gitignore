@@ -1,0 +1,19 @@
+# Build Artifacts
+**/Debug/
+**/Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+
+# Toolchain & IDE
+.vscode/
+*.launch
+*~
+*.bak
+Thumbs.db
+Desktop.ini
